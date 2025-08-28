@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit70-jpg&show_icons=true&locale=en" alt="rohit70-jpg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit70-jpg&" alt="rohit70-jpg" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=rohit70-jpg&](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" alt="rohit70-jpg" /></p>
