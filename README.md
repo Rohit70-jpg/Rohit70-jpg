@@ -21,5 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit70-jpg&show_icons=true&locale=en&layout=compact" alt="rohit70-jpg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit70-jpg&show_icons=true&locale=en" alt="rohit70-jpg" /></p>
+<p><img align="center" width="1000" height="500" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pac_man"</p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=rohit70-jpg&](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" alt="rohit70-jpg" /></p>
